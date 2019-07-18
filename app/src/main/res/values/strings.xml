@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="loading">Loading&#8230;</string>
+    <string name="request_error">Request error, please try again.</string>
+    <string name="please_wait_while_processing_your_request">Please wait while processing your request.</string>
+    <string name="no_results_found">No results found.</string>
+    <string name="image_icon">Image Icon</string>
+    <string name="back">Back</string>
+
+    <string name="username">User Name</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="scan">Scan</string>
+    <string name="log_out">Log Out</string>
+
+    <string name="invalid_request">Invalid Request</string>
+    <string name="no_internet_connection">No internet connection!</string>
+    <string name="request_server_error">Can\'t connect to server, please check your internet connection and try again.</string>
+    <string name="scan_qr_code">Scan QR Code</string>
+</resources>
